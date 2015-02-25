@@ -8,7 +8,10 @@ Rails.application.routes.draw do
 
   resources :companies do
       resources :company_reviews
-      resources :products
+  end
+
+  resources :products do
+    resources :product_reviews
   end
 
   resources :reviews
