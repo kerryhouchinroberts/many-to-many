@@ -24,7 +24,7 @@ No need to create migrations or alter the schema.
 
 <!-- - A ProductReview is a join between a user and a product. Also has a title, a rating and a description. This is incomplete, it is missing routes, a controller, a view folder and views. -->
 
-- There is a Reviews Index page that has tables of all of the ProductReviews and CompanyReviews. We need to add the User who wrote the review to the table.
+<!-- - There is a Reviews Index page that has tables of all of the ProductReviews and CompanyReviews. We need to add the User who wrote the review to the table. -->
 
 - The last devs didn't add any associations to our models. We need to add them. Companies have products. Look at the Schema and try to decide what belongs to what.
 
