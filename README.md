@@ -26,7 +26,7 @@ No need to create migrations or alter the schema.
 
 <!-- - There is a Reviews Index page that has tables of all of the ProductReviews and CompanyReviews. We need to add the User who wrote the review to the table. -->
 
-- The last devs didn't add any associations to our models. We need to add them. Companies have products. Look at the Schema and try to decide what belongs to what.
+<!-- - The last devs didn't add any associations to our models. We need to add them. Companies have products. Look at the Schema and try to decide what belongs to what. -->
 
 - The last devs wrote no Validations. We need to add Validations on Product, ProductReview and CompanyReview:
 
